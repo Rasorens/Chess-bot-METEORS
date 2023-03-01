@@ -1,2 +1,5 @@
 # Chess-bot-METEORS
-bing chilling frog ramp cafe reid likes to look at frog butts and shark balls
+
+Programming a simple chess bot
+https://www.youtube.com/watch?v=a-2uSg4Kvb0&list=PLQV5mozTHmaffB0rBsD6m9VN1azgo5wXl
+
